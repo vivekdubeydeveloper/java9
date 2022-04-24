@@ -10,6 +10,9 @@ public class PrintableImpl implements Printable {
 
 		p.getAndPrintCommaSeperatedData();
 
+		Printable.printCommaSeperatedData();
+
+		Printable.printSpaceSeperatedData();
 	}
 
 }
